@@ -1,0 +1,6 @@
+{"level":"info","message":"[2024-04-01T09:57:48.023Z] GET /api/add/?num1=1&num2=2 - add operation requested: 1 add 2","service":"calculator-microservice"}
+{"level":"info","message":"[2024-04-01T09:58:38.870Z] GET /api/add/?num1=10&num2=20 :::: add operation requested: 10 add 20","service":"calculator-microservice"}
+{"level":"info","message":"[2024-04-01T09:58:56.108Z] GET /api/subtract/?num1=10&num2=20 :::: subtract operation requested: 10 subtract 20","service":"calculator-microservice"}
+{"level":"info","message":"[2024-04-01T09:59:02.444Z] GET /api/multiply/?num1=10&num2=20 :::: multiply operation requested: 10 multiply 20","service":"calculator-microservice"}
+{"level":"info","message":"[2024-04-01T09:59:16.877Z] GET /api/divide/?num1=10&num2=20 :::: divide operation requested: 10 divide 20","service":"calculator-microservice"}
+{"level":"info","message":"[2024-04-01T09:59:22.605Z] GET /api/divide/?num1=10&num2=shuhs :::: divide operation requested: 10 divide shuhs","service":"calculator-microservice"}
